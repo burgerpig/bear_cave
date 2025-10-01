@@ -1,0 +1,8 @@
+[workspace]
+members = [
+	"common",
+	"app/*"
+]
+
+[workspace.dependencies]
+tokio = "*"
